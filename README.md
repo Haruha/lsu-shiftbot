@@ -1,7 +1,7 @@
 
 # LSU Shift Bot
 ## What is it?
-Node.js project built to automatically alert a user for changes on the StaffSavvy platform. 
+Node.js project built to automatically alert a user for changes on the StaffSavvy platform. I haven't worked on it in about a year so if you're using this you'll probably have to make changes to the Telegram components, or just remove them entirely and swap out for another service such as Facebook messenger.
 ## Features
  - Automatic navigation of StaffSavvy site
  - Scraping of available shift tables
